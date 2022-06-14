@@ -1,1 +1,73 @@
 /* Write your CSS here! */
+#date{
+    text-align: right;
+}
+
+body {
+    display: block;
+    margin: 8px;
+    font-family: Georgia, 'Times New Roman';
+    background-color: #7fb4ff;
+}
+
+#mainHeading {
+   color: red; 
+   font-variant: small-caps;
+   font-size: 40px;
+   text-align: center;
+   background-color: whitesmoke;
+   padding: 25px;
+   border: 5px solid black;
+   margin:  50px;
+}
+
+.firstImages{
+    border: 5px solid black;
+    margin: 20px;
+}
+
+#assistants{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+
+#pictureLabel{
+    text-align: center;
+}
+
+#survivalTipsHeading {
+    text-align: center;
+    font-size: 40px;
+}
+
+.listItems {
+    font-weight:800;
+}
+
+.funParagraph {
+    color: green;
+    font-weight: 500;
+    text-align: center;
+}
+
+.secondImages{
+    border: 5px solid black;
+    display:inline-block;
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+#finalImages{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+#footer{
+    text-align: center;
+}
