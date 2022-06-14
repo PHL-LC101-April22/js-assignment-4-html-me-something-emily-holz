@@ -23,9 +23,18 @@ body {
 
 .firstImages{
     border: 5px solid black;
-    display: inline-block;
-    margin-left: auto;
+    margin: 20px;
+}
+
+#assistants{
+    display:block;
+    margin-left:auto;
     margin-right:auto;
+    text-align: center;
+}
+
+
+#pictureLabel{
     text-align: center;
 }
 
@@ -46,8 +55,15 @@ body {
 
 .secondImages{
     border: 5px solid black;
-    display: inline-block;
+    display:inline-block;
     margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+#finalImages{
+    display:block;
+    margin-left:auto;
     margin-right:auto;
     text-align: center;
 }
